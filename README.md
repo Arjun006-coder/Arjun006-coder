@@ -1,5 +1,6 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4/l41lTfO3Y7yZJZK8M/giphy.gif" width="35"> Hi, I'm Arjun Agrawal!
-
+<p align="center">
+  <img src="https://img-cdn.pixlr.com/image-generator/history/655f481c408332b70f032d1d/620f39e3-e847-49f4-b903-518342f0a158/preview.webp" alt="Arjun Agrawal's Animated GitHub Banner" width="100%" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+/+ML+Specialist;AWS+Certified+Cloud+Practitioner;Data+Analytics+Intern" alt="Typing SVG" />
 </p>
