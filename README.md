@@ -4,18 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;AI+/+ML+Specialist;AWS+Certified+Cloud+Practitioner;Data+Analytics+Intern" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nextjs,vue,js,html,css,flask,dart,mongodb,docker,git,supabase,postman,powershell&perline=9" />
-</p>
+---
+
+### 📖 Professional Summary
+I am a **Computer Science Engineering** undergraduate at **KIET Group of Institutions** (GPA: 9.3). I specialize in building **AI-powered systems** and **Cloud architecture**, translating complex data challenges into innovative, scalable solutions.
+
+- 🧠 Trained by **Xebia** in advanced **NLP and Vision APIs**.
+- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02).
+- 📊 Focused on delivering measurable results through **Deep Learning** and **Data Analytics**.
 
 ---
 
-### 📖 About Me
-I am a **Computer Science Engineering** undergraduate at **KIET Group of Institutions** (GPA: 9.3). My expertise lies in building **AI-powered systems** and **Cloud architecture**. 
-
-- 🧠 Trained by **Xebia** in advanced **NLP and Vision APIs**.
-- ☁️ **AWS Certified Cloud Practitioner** with a focus on scalable infrastructure.
-- 📊 Passionate about turning complex data into actionable insights.
+### 📊 My GitHub Lifeline
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Arjun's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun006-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -27,38 +34,41 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 
 ---
 
-### 🌟 Featured AI & Development Projects
+### 🛠️ Expertise & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nextjs,vue,js,html,css,flask,dart,mongodb,docker,git,supabase,postman,powershell&perline=9" />
+  </a>
+</p>
+
+---
+
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Swift Notes** | AI assistant for real-time text summarization and knowledge building. | `NLP` `Swift` `AI` |
-| **CivicEye** | Vision system for detecting potholes/waste with geo-tagged reporting. | `Computer Vision` `ML` |
-| **IntelliFlow** | Smart Traffic Management with emergency vehicle priority protocols. | `Deep Learning` `IoT` |
+| **[Swift Notes](https://github.com/Arjun006-coder)** | AI Smart Notes Assistant for real-time text summarization and structured learning. | `NLP` `Swift` `AI` |
+| **[CivicEye](https://github.com/Arjun006-coder)** | Vision system for detecting potholes/waste with geo-tagged reporting for municipalities. | `Computer Vision` `ML` |
+| **[IntelliFlow](https://github.com/Arjun006-coder)** | Intelligent Traffic Management with emergency vehicle priority and adaptive timing. | `Deep Learning` `IoT` |
 
 ---
 
-### 🏅 Certifications & Honors
-* ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
-* 🥇 **Smart India Hackathon 2025** - College Internal Winner
-* 🥈 **Developers Night (iOS Hackathon)** - Runner-Up
+### 🏆 Academic & Professional Milestones
+* ☁️ **AWS Certified Cloud Practitioner** * 🥇 **Smart India Hackathon 2025** - College Internal Winner
+* 🥈 **Developers Night** - Runner-Up in iOS Track
+* 🎓 **GPA: 9.3** at KIET Group of Institutions
 * 📜 **Java Object-Oriented Programming** - LinkedIn Learning
-* 📜 **Introduction to Software Engineering** - IBM/Coursera
 
 ---
 
-### 📊 Engineering Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun006-coder&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/arjun-agrawal-ab82a5328" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arjun1234agrawal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -66,5 +76,5 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjun006-coder&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Arjun006-coder&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
