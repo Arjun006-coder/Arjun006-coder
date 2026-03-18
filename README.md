@@ -1,64 +1,70 @@
+# <p align="center">✨ ARJUN AGRAWAL ✨</p>
+
 <p align="center">
-  <img src="https://img-cdn.pixlr.com/image-generator/history/655f481c408332b70f032d1d/620f39e3-e847-49f4-b903-518342f0a158/preview.webp" alt="Arjun Agrawal's Animated GitHub Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;AI+/+ML+Specialist;AWS+Certified+Cloud+Practitioner;Data+Analytics+Intern" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+/+ML+Specialist;AWS+Certified+Cloud+Practitioner;Data+Analytics+Intern" alt="Typing SVG" />
-</p>
-
----
-
-### 📖 Professional Bio
-[cite_start]I am a **Computer Science Engineering** undergraduate with a strong foundation in **AI-powered systems** and **data analytics**[cite: 4]. [cite_start]I excel at translating complex challenges into innovative solutions using advanced technologies like **Machine Learning**, **Deep Learning**, and **Cloud**[cite: 5]. 
-
-[cite_start]With hands-on experience in high-impact projects, I focus on delivering measurable results and consistently striving for excellence in every build[cite: 7].
-
----
-
-### 🛠️ My Tech Toolbox (Scrolling)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nextjs,vue,js,html,css,flask,dart,mongodb,docker,git,supabase&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,nextjs,vue,js,html,css,flask,dart,mongodb,docker,git,supabase,postman,powershell&perline=9" />
 </p>
 
 ---
 
-### 💼 Professional Experience & Impact
-- [cite_start]**Data Analytics Intern @ 3Skill** [cite: 13, 14]
-  - [cite_start]📊 Analysed and processed **5,000+ structured records** using Python, Pandas, and SQL[cite: 15].
-  - [cite_start]🛠️ Designed cleaning pipelines that improved dataset accuracy by **~35%**.
-  - [cite_start]📈 Created visual reports to support critical decision-making workflows[cite: 17].
+### 📖 About Me
+I am a **Computer Science Engineering** undergraduate at **KIET Group of Institutions** (GPA: 9.3). My expertise lies in building **AI-powered systems** and **Cloud architecture**. 
+
+- 🧠 Trained by **Xebia** in advanced **NLP and Vision APIs**.
+- ☁️ **AWS Certified Cloud Practitioner** with a focus on scalable infrastructure.
+- 📊 Passionate about turning complex data into actionable insights.
 
 ---
 
-### 🌟 Featured Projects (Visual Grid)
+### 💼 Professional Impact
+**Data Analytics Intern @ 3Skill**
+* 📉 **Scale:** Processed and analyzed **5,000+ structured records** using Python & SQL.
+* 🛠️ **Optimization:** Engineered cleaning pipelines that boosted dataset accuracy by **~35%**.
+* 🎨 **Visualization:** Delivered automated reporting using **Power BI** and **Tableau**.
 
-| Project | Description | Animation |
-| :--- | :--- | :---: |
-| **Swift Notes** | [cite_start]AI Smart Notes Assistant that converts raw text into structured revision notes[cite: 35]. | 📝 |
-| **CivicEye** | [cite_start]AI system for detecting potholes and garbage via geo-tagged imagery for municipalities[cite: 38, 40]. | 👁️ |
-| **IntelliFlow** | [cite_start]Intelligent Traffic System with real-time vehicle detection and emergency priority[cite: 42, 46]. | 🚦 |
+---
+
+### 🌟 Featured AI & Development Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Swift Notes** | AI assistant for real-time text summarization and knowledge building. | `NLP` `Swift` `AI` |
+| **CivicEye** | Vision system for detecting potholes/waste with geo-tagged reporting. | `Computer Vision` `ML` |
+| **IntelliFlow** | Smart Traffic Management with emergency vehicle priority protocols. | `Deep Learning` `IoT` |
 
 ---
 
 ### 🏅 Certifications & Honors
-- [cite_start]☁️ **AWS Certified Cloud Practitioner**[cite: 22].
-- [cite_start]🏆 **Smart India Hackathon 2025** - College Internal Winner[cite: 31].
-- [cite_start]🥈 **Developers Night (iOS Hackathon)** - Runner-Up[cite: 32].
-- 🎓 **GPA: 9.3** | [cite_start]KIET Group of Institutions[cite: 10].
+* ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
+* 🥇 **Smart India Hackathon 2025** - College Internal Winner
+* 🥈 **Developers Night (iOS Hackathon)** - Runner-Up
+* 📜 **Java Object-Oriented Programming** - LinkedIn Learning
+* 📜 **Introduction to Software Engineering** - IBM/Coursera
 
 ---
 
-### 📈 Profile Visualization
+### 📊 Engineering Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun006-coder&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/arjun-agrawal-ab82a5328" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:arjun1234agrawal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/arjun-agrawal-ab82a5328" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arjun1234agrawal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/Arjun006" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjun006-coder&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
