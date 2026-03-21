@@ -47,9 +47,9 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Swift Notes](https://github.com/Arjun006-coder)** | AI Smart Notes Assistant for real-time text summarization and structured learning. | `NLP` `Swift` `AI` |
-| **[CivicEye](https://github.com/Arjun006-coder)** | Vision system for detecting potholes/waste with geo-tagged reporting for municipalities. | `Computer Vision` `ML` |
-| **[IntelliFlow](https://github.com/Arjun006-coder)** | Intelligent Traffic Management with emergency vehicle priority and adaptive timing. | `Deep Learning` `IoT` |
+| **[Swift Notes](https://github.com/Arjun006-coder/SwiftNotes2.0Web)** | AI Smart Notes Assistant for real-time text summarization and structured learning. | `NLP` `Swift` `AI` |
+| **[CivicEye](https://github.com/Arjun006-coder/civiceye-dev)** | Vision system for detecting potholes/waste with geo-tagged reporting for municipalities. | `Computer Vision` `ML` |
+| **[IntelliFlow](https://github.com/Arjun006-coder/traffic-light-system-intelliflow)** | Intelligent Traffic Management with emergency vehicle priority and adaptive timing. | `Deep Learning` `IoT` |
 
 ---
 
@@ -57,7 +57,6 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 * ☁️ **AWS Certified Cloud Practitioner** * 🥇 **Smart India Hackathon 2025** - College Internal Winner
 * 🥈 **Developers Night** - Runner-Up in iOS Track
 * 🎓 **GPA: 9.3** at KIET Group of Institutions
-* 📜 **Java Object-Oriented Programming** - LinkedIn Learning
 
 ---
 
