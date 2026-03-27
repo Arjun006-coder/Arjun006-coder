@@ -17,9 +17,11 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 
 ### 📊 My GitHub Lifeline
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Arjun's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun006-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
