@@ -1,3 +1,4 @@
+
 # <p align="center">✨ ARJUN AGRAWAL ✨</p>
 
 <p align="center">
@@ -17,11 +18,9 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 
 ### 📊 My GitHub Lifeline
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun006-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun006-coder&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Arjun's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun006-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -49,9 +48,9 @@ I am a **Computer Science Engineering** undergraduate at **KIET Group of Institu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Swift Notes](https://github.com/Arjun006-coder/SwiftNotes2.0Web)** | AI Smart Notes Assistant for real-time text summarization and structured learning. | `NLP` `Swift` `AI` |
-| **[CivicEye](https://github.com/Arjun006-coder/civiceye-dev)** | Vision system for detecting potholes/waste with geo-tagged reporting for municipalities. | `Computer Vision` `ML` |
-| **[IntelliFlow](https://github.com/Arjun006-coder/traffic-light-system-intelliflow)** | Intelligent Traffic Management with emergency vehicle priority and adaptive timing. | `Deep Learning` `IoT` |
+| **[Swift Notes](https://github.com/Arjun006-coder/SwiftNotes2.0Web)** | AI Smart Notes Assistant for real-time text summarization and structured learning. | NLP Swift AI |
+| **[CivicEye](https://github.com/Arjun006-coder/civiceye-dev)** | Vision system for detecting potholes/waste with geo-tagged reporting for municipalities. | Computer Vision ML |
+| **[IntelliFlow](https://github.com/Arjun006-coder/traffic-light-system-intelliflow)** | Intelligent Traffic Management with emergency vehicle priority and adaptive timing. | Deep Learning IoT |
 
 ---
 
